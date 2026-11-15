@@ -859,6 +859,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [White Knight Labs, 50% off Certification Courses and Academy Passes with code WKLBLACKFRIDAY26, Black Friday 2026](https://whiteknightlabs.com/) | 50% off Certification Courses and 6/12 month Academy Passes with code WKLBLACKFRIDAY26 | — | 2026-12-18 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Sale Nov 27 to Dec 18, 2026. Listed in the ps-lo InfoSec-and-Tech-Black-Friday list. |
 
 [↑ Back to top](#awesome-black-friday--cyber-monday-2026-deals)
+| [Modern Security - Hands-on AI Security Certification, 20% off, Black Friday 2026](https://www.modernsecurity.io/courses/ai-security-certification) | 20% off with code `msec-bf20` | — | 2026-12-10 | [Modern Security](https://www.modernsecurity.io/courses/ai-security-certification) | Hands-on AI security training with practical labs on agents, MCP, RAG, prompt injection, red teaming, guardrails and AI supply chain security. Valid Nov 10–Dec 10, 2026. |
 
 ## Games
 
